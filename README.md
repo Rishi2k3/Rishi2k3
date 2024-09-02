@@ -24,33 +24,33 @@
 <br><br>
 <hr>
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Github+Trophies"></h2>
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=aditiagarwal30&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Rishi2k3&column=8&theme=gruvbox&no-frame=true"/>
   
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Let's+look+at+some+statistics:"></h2>
 <div>
   <p align="center"><b><i>Languages Used:</i><b><br><br>
-<a href="https://github.com/aditiagarwal30">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiagarwal30&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/Rishi2k3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi2k3&theme=dark&hide_langs_below=1" />
     </a></p></div><br>
 <div>
   <p align="center"><b><i>GitHub Statistics:</i><b><br><br>
 <a href="https://github.com/aditiagarwal30">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditiagarwal30&show_icons=true&theme=dark&line_height=27" alt="Aditi's Github Stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi2k3&show_icons=true&theme=dark&line_height=27" alt="Aditi's Github Stats"/>
     </a></p></div><br>
 <div>
   <p align="center"><b><i>Streak Statistics:</i></b><br><br>
-    <img alt="Aditi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aditiagarwal30&theme=dark&hide_border=true"/>
+    <img alt="Rishi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi2k3&theme=dark&hide_border=true"/>
   </p>
 </div>
 <hr>
   <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&color=FFFFFF&lines=Graph+of+Statistics:"></h2>
-  <img alt="Aditi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aditiagarwal30&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="Rishi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rishi2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <hr>
   <div>
- <a href="https://www.linkedin.com/in/aditi-agarwal-52aa06209/">
-    <img align="left" alt="Aditi Agarwal | Linkedin" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+ <a href="https://www.linkedin.com/in/rishi-agarwal-b57721175/">
+    <img align="left" alt="Rishi Agarwal | Linkedin" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="mailto:agarwal.aditi.2017448@gmail.com">
-    <img align="left" alt="Aditi Agarwal | Gmail" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:rishi.mait2k3@gmail.com.com">
+    <img align="left" alt="Rishi Agarwal | Gmail" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a></div> 
   
