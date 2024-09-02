@@ -34,8 +34,8 @@
     </a></p></div><br>
 <div>
   <p align="center"><b><i>GitHub Statistics:</i><b><br><br>
-<a href="https://github.com/aditiagarwal30">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi2k3&show_icons=true&theme=dark&line_height=27" alt="Aditi's Github Stats"/>
+<a href="https://github.com/Rishi2k3">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishi2k3&show_icons=true&theme=dark&line_height=27" alt="Rishi's Github Stats"/>
     </a></p></div><br>
 <div>
   <p align="center"><b><i>Streak Statistics:</i></b><br><br>
